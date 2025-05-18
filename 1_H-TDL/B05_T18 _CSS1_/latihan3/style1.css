@@ -1,0 +1,45 @@
+h1 {
+  text-decoration: none;
+}
+
+h2 {
+  color: salmon;
+  text-decoration: underline;
+  text-transform: lowercase;
+}
+
+h3 {
+  color: rgb(131, 80, 54);
+  text-decoration: overline;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: #e534c2;
+  text-decoration: line-through;
+  text-transform: capitalize;
+}
+
+.p1 {
+  text-align: left;
+  text-indent: 15px;
+  word-spacing: 4px;
+}
+
+.p2 {
+  text-align: center;
+  text-indent: 30px;
+  letter-spacing: 8px;
+}
+
+.p3 {
+  text-align: right;
+  text-indent: 15%;
+  word-spacing: 6px;
+}
+
+.p4 {
+  text-align: justify;
+  text-indent: 30%;
+  letter-spacing: 10px;
+}
