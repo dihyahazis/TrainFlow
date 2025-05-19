@@ -1,0 +1,55 @@
+h1 {
+  font-size: 24px;
+}
+
+h1 a:link {
+  color: salmon;
+}
+
+h1 a:hover {
+  font-family: helvetica, serif;
+  color: lightblue;
+  font-size: 30px;
+}
+
+h1 a:active {
+  color: lightgreen;
+}
+
+h1 a:visited {
+  color: yellow;
+}
+
+ol li:first-child a:link {
+  color: red;
+}
+
+ol li:last-child a:link {
+  color: rgb(120, 120, 120);
+}
+
+ol li:nth-child(2n+4) a:link {
+  color: rgb(80, 150, 40);
+}
+
+ol.list li a:hover {
+  color: black;
+  font-family: verdana, sans-serif;
+  font-size: 24px;
+}
+
+ol.list li a:active {
+  color: white;
+}
+
+ol.list li a:visited {
+  color: lightblue;
+}
+
+p:first-of-type {
+  color: red;
+}
+
+p:last-of-type {
+  color: blue;
+}
