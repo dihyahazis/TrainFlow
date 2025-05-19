@@ -2,10 +2,9 @@
 
 /* Bulan Mei 2025 */
 Tanggal;Pembelajaran;Status;Skor
-18 Mei 2025;HTML;V;100%
-18 Mei 2025;CSS;X;-
+19 Mei 2025;HTML;V;100%
+19 Mei 2025;CSS;X;-
 
-19 Mei 2025;;;
 20 Mei 2025;;;
 21 Mei 2025;;;
 22 Mei 2025;;;
