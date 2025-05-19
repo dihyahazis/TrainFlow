@@ -1,0 +1,27 @@
+div {
+  height: 300px;
+  width: 300px;
+  background-color: salmon;
+  margin: 100px auto;
+  position: relative;
+}
+
+div::before {
+  content: "";
+  height: 100px;
+  width: 100px;
+  background-color: lightblue;
+  position: absolute;
+  top: -50px;
+  left: -50px;
+}
+
+div::after {
+  content: "";
+  height: 100px;
+  width: 100px;
+  background-color: lightgreen;
+  position: absolute;
+  bottom: -50px;
+  right: -50px;
+}

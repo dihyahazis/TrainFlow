@@ -1,0 +1,26 @@
+h1 {
+  font-family: verdana;
+  font-size: 24px;
+}
+
+h1::before {
+  content: url('gambar.png') "";
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 24px;
+}
+
+h2::before {
+  content: "";
+  background-image: url('gambar.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+}

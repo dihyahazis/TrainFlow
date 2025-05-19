@@ -1,0 +1,15 @@
+#p1 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+ol#id li {
+  color: blue;
+}
+
+ol#id li.kls {
+  color: yellow;
+}

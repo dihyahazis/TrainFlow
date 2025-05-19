@@ -1,0 +1,17 @@
+body {
+  background-color: #050505;
+  font-family: verdana, sans-serif;
+  color: white;
+}
+
+ul {
+  color: red;
+}
+
+li {
+  color: green;
+}
+
+a {
+  color: inherit;
+}

@@ -1,0 +1,14 @@
+div {
+  height: 200px;
+  width: 200px;
+  background-color: salmon;
+  font-size: 24px;
+}
+
+div::after {
+  content: " Datang";
+}
+
+div::before {
+  content: "Hai, ";
+}

@@ -1,0 +1,19 @@
+p a {
+  text-decoration: none;
+  font-family: calibri;
+  font-size: 20px;
+  color: gold;
+  font-weight: 700;
+}
+
+p a::after {
+  content: " | ";
+}
+
+p a:first-child::before {
+  content: ":: ";
+}
+
+p a:last-child::after {
+  content: "";
+}

@@ -1,0 +1,15 @@
+#head1:target {
+  background-color: red;
+}
+
+.p1:target {
+  background-color: blue;
+}
+
+.p2:target {
+  background-color: orange;
+}
+
+.p3:target {
+  background-color: green;
+}

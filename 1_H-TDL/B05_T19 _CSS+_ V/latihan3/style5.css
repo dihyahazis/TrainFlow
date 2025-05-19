@@ -1,0 +1,39 @@
+blockquote {
+  font-family: helvetica;
+  font-size: 24px;
+  position: relative;
+  margin: 50px 80px 5px 80px;
+  font-style: italic;
+  line-height: 32px;
+  text-align: justify;
+}
+
+blockquote::before {
+  content: '"';
+  font-family: "Times New Roman";
+  display: inline-block;
+  position: absolute;
+  font-size: 60px;
+  color: lightblue;
+  top: 4px;
+  left: -28px;
+}
+
+blockquote::after {
+  content: '"';
+  font-family: "Times New Roman";
+  display: inline-block;
+  position: absolute;
+  font-size: 60px;
+  color: lightblue;
+  bottom: -20px;
+  right: 635px;
+}
+
+p {
+  margin: 8px 80px;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  color: salmon;
+  font-size: 18px;
+}

@@ -1,20 +1,13 @@
 # Jadwal Tugas Harian dan Hasil Tugas
 
 /* Bulan Mei 2025 */
-Tanggal;Status;Skor
-18 Mei 2025;;
-19 Mei 2025;;
-20 Mei 2025;;
-21 Mei 2025;;
-22 Mei 2025;;
-23 Mei 2025;;
-24 Mei 2025;;
-25 Mei 2025;;
-26 Mei 2025;;
-27 Mei 2025;;
-28 Mei 2025;;
-29 Mei 2025;;
-30 Mei 2025;;
-31 Mei 2025;;
+Bulan Tahun;Minggu;Pembelajaran;Status;Skor;Review
+Mei 2025;M3;CSS2;X;-;-
 
-/* Status -> V (dilakukan), X (tidak); Skor -> Hasil (angka) / Jml Pertanyaan */
+Mei 2025;M4;;;;
+Juni 2025;M1;;;;
+Juni 2025;M2;;;;
+Juni 2025;M3;;;;
+Juni 2025;M4;;;;
+
+/* Pembelajaran -> HTML, CSS, dst; Status -> V (dilakukan), X (tidak); Skor -> Hasil (angka) / Jml Pertanyaan */
