@@ -1,0 +1,34 @@
+.top {
+  background-color: red;
+}
+
+.nav {
+  background-color: gray;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+img {
+  display: inline;
+  max-width: 40%;
+}
+
+.main {
+  display: flex;
+  background-color: lightyellow;
+  max-widht: 60%;
+}
+
+.bottom {
+  background-color: lightgreen;
+}
+
+.main h2 {
+  background-color: blue;
+}
+
+.main p {
+  background-color: blue;
+}

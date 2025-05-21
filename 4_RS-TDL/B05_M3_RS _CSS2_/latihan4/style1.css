@@ -1,0 +1,11 @@
+div {
+  background-color: aqua;
+  width: 245px;
+  height: 250px;
+  margin: 50px auto;
+  padding: 20px;
+  border-left: 5px double black;
+  border-right: 10px dashed red;
+  border-top: 7px solid yellow;
+  border-bottom: 3px dotted green;
+}
